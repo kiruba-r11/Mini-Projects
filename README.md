@@ -62,12 +62,18 @@ This repo contains the list of all my mini projects.
     </tr>
     <tr align="center">
       <td>4.</td>
+      <td align="left"><a href="https://github.com/kiruba-r11/GoldenRatioWebPage">Golden Ratio</a></td>
+      <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+      <td><a href="https://barathkumarbk-15.github.io/GoldenRatioWebPage/">Click Here</a></td>
+    </tr>
+    <tr align="center">
+      <td>5.</td>
       <td align="left"><a href="https://github.com/kiruba-r11/Obatin-Medicine-Landing-Page">Obatin - Medicine Landing Page</a></td>
       <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
       <td><a href="https://kiruba-r11.github.io/Obatin-Medicine-Landing-Page/">Click Here</a></td>
     </tr>
     <tr align="center">
-      <td>5.</td>
+      <td>6.</td>
       <td align="left"><a href="https://github.com/kiruba-r11/Glassmorphic-Profile-Card">Glassmorphic Profile Card</a></td>
       <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
       <td><a href="https://kiruba-r11.github.io/Glassmorphic-Profile-Card/">Click Here</a></td>
